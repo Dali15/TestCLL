@@ -2,7 +2,7 @@
 ###### Description:
 Ce programme c permet la recherche d'un ensemble de mot dans les fichiers d'un repertoire donné.
 Le programme prend en parametre le chemin du repertoire ainsi que la liste des mots a recherchés.
-###### Utilisation du script:
+###### Utilisation du programme:
 ```
 gcc -o tp tp.c
 ./tp fichier.txt  mot1 mot2 ... motn
