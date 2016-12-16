@@ -5,6 +5,6 @@ Le programme prend en parametre le chemin du repertoire ainsi que la liste des m
 ###### Utilisation du programme:
 ``` shell
 gcc -o tp tp.c
-./tp fichier.txt  mot1 mot2 ... motn
+./tp dossier/  mot1 mot2 ... motn
 
 ```
